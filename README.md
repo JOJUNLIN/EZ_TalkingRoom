@@ -19,3 +19,7 @@ Java SE、Java Swing、Java AWT
 先运行Server_2.java
 
 再运行Client_2.java    可同时运行多个
+
+## 后置项目：加密的安全聊天室
+
+项目链接：https://github.com/JOJUNLIN/Safe_ChatRoom.git
